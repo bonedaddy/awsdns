@@ -1,0 +1,25 @@
+# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/mitchellh/goamz v0.0.0-20150317174335-caaaea8b30ee
+## explicit
+github.com/mitchellh/goamz/aws
+github.com/mitchellh/goamz/route53
+# github.com/motain/gocheck v0.0.0-20131023154940-9beb271d26e6
+## explicit
+# github.com/russross/blackfriday/v2 v2.0.1
+github.com/russross/blackfriday/v2
+# github.com/segmentio/go-route53 v0.2.0
+## explicit
+github.com/segmentio/go-route53
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# github.com/urfave/cli v1.22.4
+## explicit
+github.com/urfave/cli
+# github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec
+## explicit
+github.com/vaughan0/go-ini
+# golang.org/x/tools/gopls v0.5.0
+## explicit
+# launchpad.net/gocheck v0.0.0-20140225173054-000000000087
+## explicit
